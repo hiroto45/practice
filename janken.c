@@ -9,7 +9,7 @@ int main() {
   const int PAPER = 3;
   const int FALSE = 0;
 
-  printf("hallo!\n Let's play janken!\n");
+  printf("HALLO!\n Let's play janken!\n");
   printf("rock=1 scissors=2 paper=3 \n\n");
 
   srand((unsigned int)time(NULL));
