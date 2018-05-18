@@ -30,4 +30,4 @@ int check(int ro,int co,int a,int b,int turn){
 	flag=1;
 	return turn;
   }else if()
-	
+	  
